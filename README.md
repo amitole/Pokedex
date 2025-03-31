@@ -54,13 +54,13 @@ pokemon-app/
 - MongoDB
 
 ### Backend Setup
-1. Navigate to the server directory: `cd pokemon-app/server`
+1. Navigate to the server directory: `cd server`
 2. Install dependencies: `npm install`
 3. Create a `.env` file with your MongoDB connection string
 4. Start the development server: `npm run dev`
 
 ### Frontend Setup
-1. Navigate to the client directory: `cd pokemon-app/client`
+1. Navigate to the client directory: `cd client`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
